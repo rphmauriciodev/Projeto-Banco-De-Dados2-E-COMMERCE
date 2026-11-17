@@ -13,7 +13,7 @@ docker compose run --rm app console
 docker compose up app
 ```
 
-Swagger UI: http://localhost:8081/swagger
+Swagger UI: http://localhost:8080/swagger
 
 ## Declaração de uso de IA
 
